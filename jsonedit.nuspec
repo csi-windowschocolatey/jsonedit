@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>audioswitcher</id>
+    <title>Audio Switcher</title>
+    <version>1.6.5.1</version>
+    <authors>Sean Chapman</authors>
+    <owners>Darwin Sanoy (CSI-Windows.com)</owners>
+    <summary>Allows easy switching of default Windows speakers and microphone using profiles that you setup.</summary>
+    <description>
+Allows easy switching of default Windows speakers and microphone using profiles that you setup.
+Requires .NET 4.
+    </description>
+    <projectUrl>http://sourceforge.net/projects/audioswitcher/</projectUrl>
+    <tags>Audio, Switcher, Source</tags>
+    <copyright>Sean Chapman</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/audioswitcher/master/appicon.png</iconUrl>
+  </metadata>
+</package>
