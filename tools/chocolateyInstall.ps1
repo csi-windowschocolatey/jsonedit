@@ -1,5 +1,5 @@
 ﻿$packageName = 'jsonedit'
-$url = 'http://tomeko.net/software/JSONedit/bin/JSONedit_0_9_12.zip'
+$url = 'http://tomeko.net/software/JSONedit/bin/JSONedit_0_9_14.zip'
 $validExitCodes = @(0)
 $exeName = "jsonedit.exe"
 
